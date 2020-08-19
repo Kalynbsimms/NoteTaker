@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kalynbsimms/NoteTaker/issues"
   },
-  "homepage": "https://github.com/Kalynbsimms/NoteTaker#readme"
+  "homepage": "https://github.com/Kalynbsimms/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
